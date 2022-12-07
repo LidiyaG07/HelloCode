@@ -1,0 +1,15 @@
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\Examples\Example_007_Magic\bin\Debug\net6.0\Example_007_Magic.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\Examples\Example_007_Magic\bin\Debug\net6.0\Example_007_Magic.deps.json
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\Examples\Example_007_Magic\bin\Debug\net6.0\Example_007_Magic.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\Examples\Example_007_Magic\bin\Debug\net6.0\Example_007_Magic.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\Examples\Example_007_Magic\bin\Debug\net6.0\Example_007_Magic.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\Examples\Example_007_Magic\obj\Debug\net6.0\Example_007_Magic.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\Examples\Example_007_Magic\obj\Debug\net6.0\Example_007_Magic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\Examples\Example_007_Magic\obj\Debug\net6.0\Example_007_Magic.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\Examples\Example_007_Magic\obj\Debug\net6.0\Example_007_Magic.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\Examples\Example_007_Magic\obj\Debug\net6.0\Example_007_Magic.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\Examples\Example_007_Magic\obj\Debug\net6.0\Example_007_Magic.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\Examples\Example_007_Magic\obj\Debug\net6.0\refint\Example_007_Magic.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\Examples\Example_007_Magic\obj\Debug\net6.0\Example_007_Magic.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\Examples\Example_007_Magic\obj\Debug\net6.0\Example_007_Magic.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\Examples\Example_007_Magic\obj\Debug\net6.0\ref\Example_007_Magic.dll
