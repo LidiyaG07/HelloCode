@@ -1,0 +1,15 @@
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\Examples\Example005_ConditionIfElso\bin\Debug\net6.0\Example005_ConditionIfElso.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\Examples\Example005_ConditionIfElso\bin\Debug\net6.0\Example005_ConditionIfElso.deps.json
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\Examples\Example005_ConditionIfElso\bin\Debug\net6.0\Example005_ConditionIfElso.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\Examples\Example005_ConditionIfElso\bin\Debug\net6.0\Example005_ConditionIfElso.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\Examples\Example005_ConditionIfElso\bin\Debug\net6.0\Example005_ConditionIfElso.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\Examples\Example005_ConditionIfElso\obj\Debug\net6.0\Example005_ConditionIfElso.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\Examples\Example005_ConditionIfElso\obj\Debug\net6.0\Example005_ConditionIfElso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\Examples\Example005_ConditionIfElso\obj\Debug\net6.0\Example005_ConditionIfElso.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\Examples\Example005_ConditionIfElso\obj\Debug\net6.0\Example005_ConditionIfElso.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\Examples\Example005_ConditionIfElso\obj\Debug\net6.0\Example005_ConditionIfElso.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\Examples\Example005_ConditionIfElso\obj\Debug\net6.0\Example005_ConditionIfElso.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\Examples\Example005_ConditionIfElso\obj\Debug\net6.0\refint\Example005_ConditionIfElso.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\Examples\Example005_ConditionIfElso\obj\Debug\net6.0\Example005_ConditionIfElso.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\Examples\Example005_ConditionIfElso\obj\Debug\net6.0\Example005_ConditionIfElso.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\GeekBrains_L\Examples\Example005_ConditionIfElso\obj\Debug\net6.0\ref\Example005_ConditionIfElso.dll
